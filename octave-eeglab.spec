@@ -3,7 +3,7 @@
 Summary:	A signal processing environment for electrophysiological signals for Octave
 Name:		octave-eeglab
 Version:	2023.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/eeglab/
